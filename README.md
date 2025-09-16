@@ -18,10 +18,6 @@ These **Esri** courses are currently ongoing and do not yet have certificates:
 - Cartography
 - Spatial Data Science: The New Frontier in Analytics
 
-## Future QGIS Courses
-
-In the future, I plan to add certificates for QGIS courses here as well.
-
 ---
 
 *Created and maintained by Álvaro González Sánchez* 
