@@ -22,10 +22,6 @@ These **Esri** courses are currently ongoing and do not yet have certificates:
 
 In the future, I plan to add certificates for QGIS courses here as well.
 
-## Purpose
-
-This repository serves as a personal record of completed GIS courses and can also be shared as proof of training or skills.
-
 ---
 
 *Created and maintained by Álvaro González Sánchez* 
