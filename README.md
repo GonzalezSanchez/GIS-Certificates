@@ -21,4 +21,4 @@ These **Esri** courses are currently ongoing and do not yet have certificates:
 
 ---
 
-*Created and maintained by Álvaro González Sánchez* 
+*Created and maintained by Álvaro González Sánchez — [Connect on LinkedIn](https://www.linkedin.com/in/gonzalezsanchez/)* 
