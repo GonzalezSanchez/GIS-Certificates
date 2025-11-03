@@ -11,14 +11,13 @@ The repository currently includes the following **Esri** course certificates iss
 - [Going Places with Spatial Analysis](./Going_places_with_spatial_analysis_AGS.pdf)
 - [Introduction to ArcGIS API for Python](./Introduction_to_ArcGIS_API_for_Python_AGS.pdf)
 - [Python for Everyone](./Python_for_everyone_AGS.pdf)
-
+- [Spatial Data Science: The New Frontier in Analytics](./Spatial_data_science__The_new_frontier_in_analytics_AGS.pdf)
 
 ## Esri Courses in Progress
 
 These **Esri** courses are currently ongoing and do not yet have certificates:
 
-- Spatial Data Science: The New Frontier in Analytics
-
+- The ArcGIS Imagery MOOC: Foundations and Frontiers
 ---
 
 *Created and maintained by Álvaro González Sánchez — [Connect on LinkedIn](https://www.linkedin.com/in/gonzalezsanchez/)* 
